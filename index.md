@@ -5,4 +5,4 @@ title: Home
 
 # Welcome to KONQUER_560
 
-Helping you navigate GenAI, Sales Ops, and Strategic Consulting through practical insights and real-world projects.
+Helping you navigate Global Sales Ops, Strategic Consulting, Data Analytics and GenAI challenges through practical insights and real-world projects.
