@@ -4,7 +4,8 @@ title: Services
 ---
 
 ## Consulting
-We offer GenAI and Business Strategy consulting across Sales, Ops, and Transformation.
+We offer Business Strategy consulting for organisations specilizing in Business Analytics, Global Sales Operations and Transformation.
 
 ## Training
-Corporate training on GenAI tools, Sales 101, Data Storytelling, and more.
+Corporate training on leveraging GenAI tools at various business functions such as Tech Writing / Legal Services / Sales / Strategy / 
+Analytics / Program Management / Product Management / Finance / SCM / Marketing, etc.
