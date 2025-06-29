@@ -10,7 +10,7 @@ title: Academic
 | Qualification       | Institution                  | Year of Passing | Specialization        |
 |---------------------|------------------------------|------------------|------------------------|
 | B.Sc          | Christ College, Bangalore    | 2006             | Electronics |
-| MBA     | ITM University, Bangalore  | 2017             | Business Management   |
+| MBA     | ITM University & SNHU, Bangalore  | 2019             | Marketing & Operations   |
 
 
 ## Certifications
