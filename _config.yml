@@ -1,0 +1,13 @@
+title: Rise & Reign
+theme: minima
+baseurl: ""
+url: "https://yourusername.github.io"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+markdown: kramdown
