@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Real Life
+title: WorkEX
 ---
 
 # Work Experience
